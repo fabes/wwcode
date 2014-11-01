@@ -6,9 +6,10 @@ What is a variable?
 var first_name = "Fabion";
 var last_name = "Stephens";
 var age = 99;
+var favorite_color = "black";
 
 //How to print a variable to the screen
-// - document.write(first_name);
+//document.write(first_name);
 
 //How to concatenate variables together
 /*
@@ -19,3 +20,4 @@ var age = 99;
 
 //How to assign variable to another variable
 var full_name = first_name+" "+last_name;
+document.write(full_name);
